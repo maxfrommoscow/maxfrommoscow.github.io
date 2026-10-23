@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*?*sort=
+Disallow: /*?*family=
+Disallow: /*?*colour=
+
+Host: https://www.rushil.eu/
+Sitemap: https://www.rushil.eu/sitemap.xml
