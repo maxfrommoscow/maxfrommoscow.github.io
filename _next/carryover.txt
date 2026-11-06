@@ -1,0 +1,2 @@
+_next/static/aNgoPizQS6p4u6MgHYFn3/_buildManifest.js
+_next/static/aNgoPizQS6p4u6MgHYFn3/_ssgManifest.js
