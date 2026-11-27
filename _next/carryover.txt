@@ -1,0 +1,2 @@
+_next/static/Esr0GKptkhcsE7gBFO2za/_buildManifest.js
+_next/static/Esr0GKptkhcsE7gBFO2za/_ssgManifest.js

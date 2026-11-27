@@ -1,0 +1,17 @@
+<!-- PLACEHOLDER. Replace with the official Rushil Decor artwork before launch.
+     Do not redraw, recolour or distort the supplied logo. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" role="img" aria-label="Rushil Decor">
+  <g>
+    <rect x="0"  y="8"  width="7" height="7" fill="#101114"/>
+    <rect x="9"  y="8"  width="7" height="7" fill="#101114"/>
+    <rect x="18" y="8"  width="7" height="7" fill="#2F64A3"/>
+    <rect x="0"  y="17" width="7" height="7" fill="#101114"/>
+    <rect x="9"  y="17" width="7" height="7" fill="#E5262B"/>
+    <rect x="18" y="17" width="7" height="7" fill="#101114"/>
+    <rect x="0"  y="26" width="7" height="7" fill="#2F64A3"/>
+    <rect x="9"  y="26" width="7" height="7" fill="#101114"/>
+    <rect x="18" y="26" width="7" height="7" fill="#101114"/>
+  </g>
+  <text x="38" y="27" font-family="Manrope, system-ui, sans-serif" font-size="19"
+        font-weight="700" letter-spacing="-0.4" fill="#101114">RUSHIL DECOR</text>
+</svg>
